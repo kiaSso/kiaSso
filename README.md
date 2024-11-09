@@ -1,6 +1,4 @@
-## Hi there 👋
-
-# About
+Hi there 👋
 
 My name is Mauro Mancinetti and I'm a Java developer since 20 years or so.
 
